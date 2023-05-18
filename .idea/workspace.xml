@@ -5,32 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5497a421-cf08-4d29-96bc-fd8776058e88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure And Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ExpenseMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ExpenseNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/ExpensesTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/FavourWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/HCFPrimeFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/InfixEvaluator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/SecondHighestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/SortStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/SubSumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/algorithm/FavourWorkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/algorithm/SortStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/RearrangeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ReverseAscendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/StringWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,33 +73,7 @@
       <recent name="C:\Users\Admin\DataStructure And Algorithm\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InfixEvaluator">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.BinarySearch" />
-      <module name="DataStructure And Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExpenseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ExpenseMain" />
-      <module name="DataStructure And Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringWords">
     <configuration name="InfixEvaluator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.InfixEvaluator" />
       <module name="DataStructure And Algorithm" />
@@ -134,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.SortStrings" />
+    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.PlusOne" />
       <module name="DataStructure And Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -147,8 +100,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubSumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.SubSumArray" />
+    <configuration name="RearrangeWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.RearrangeWords" />
+      <module name="DataStructure And Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseAscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ReverseAscendingOrder" />
+      <module name="DataStructure And Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.StringWords" />
       <module name="DataStructure And Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -162,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringWords" />
+        <item itemvalue="Application.ReverseAscendingOrder" />
+        <item itemvalue="Application.RearrangeWords" />
+        <item itemvalue="Application.PlusOne" />
         <item itemvalue="Application.InfixEvaluator" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.SortStrings" />
-        <item itemvalue="Application.ExpenseMain" />
-        <item itemvalue="Application.SubSumArray" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +174,15 @@
       <workItem from="1682358005910" duration="139000" />
       <workItem from="1682531111205" duration="112000" />
       <workItem from="1682599442597" duration="19000" />
+      <workItem from="1683330454604" duration="429000" />
+      <workItem from="1683337206344" duration="101000" />
+      <workItem from="1683557381995" duration="178000" />
+      <workItem from="1683567532201" duration="28000" />
+      <workItem from="1683727954088" duration="716000" />
+      <workItem from="1683730343765" duration="615000" />
+      <workItem from="1683732566550" duration="50000" />
+      <workItem from="1684285033867" duration="1574000" />
+      <workItem from="1684418385744" duration="2215000" />
     </task>
     <servers />
   </component>
