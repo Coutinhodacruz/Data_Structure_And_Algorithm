@@ -22,7 +22,7 @@ public class SubSumArray {
         int[] arr = {1, 2, 3, 4, 5};
         int number = 3;
         int maxSum = maxSubSumArray(arr, number);
-        System.out.println("Maximum sum of subarray of size " + number + " is " + maxSum);  // Output: Maximum sum of subarray of size 3 is 12
+        System.out.println("Maximum sum of subarray of size " + number + " is " + maxSum);
 
     }
 }
