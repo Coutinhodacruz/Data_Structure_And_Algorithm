@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5497a421-cf08-4d29-96bc-fd8776058e88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/CharacterArrayReversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/MergeSortReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Binding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/StaticBinding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/PlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/SubSumArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/SubSumArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +62,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;io.unthrottled.amii.config.ui.PluginSettingsUI&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
@@ -76,9 +75,22 @@
       <recent name="C:\Users\Admin\DataStructure And Algorithm\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SortStringsTest">
-    <configuration name="CharacterArrayReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.CharacterArrayReversal" />
+  <component name="RunManager" selected="Application.Binding">
+    <configuration name="Binding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Binding" />
+      <module name="DataStructure And Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpenseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ExpenseMain" />
       <module name="DataStructure And Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -103,21 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.MultiplicationTable" />
-      <module name="DataStructure And Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseCharArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ReverseCharArray" />
+    <configuration name="StaticBinding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.StaticBinding" />
       <module name="DataStructure And Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SortStringsTest" />
+        <item itemvalue="Application.Binding" />
+        <item itemvalue="Application.ExpenseMain" />
         <item itemvalue="Application.MergeSortReverse" />
-        <item itemvalue="Application.CharacterArrayReversal" />
-        <item itemvalue="Application.ReverseCharArray" />
-        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.StaticBinding" />
+        <item itemvalue="JUnit.SortStringsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +191,14 @@
       <workItem from="1686941680019" duration="644000" />
       <workItem from="1687668091318" duration="632000" />
       <workItem from="1687669154949" duration="4420000" />
+      <workItem from="1687726212150" duration="2259000" />
+      <workItem from="1688231908195" duration="925000" />
+      <workItem from="1688492709966" duration="395000" />
+      <workItem from="1688564394184" duration="45000" />
+      <workItem from="1688653622088" duration="2438000" />
+      <workItem from="1688696097586" duration="3206000" />
+      <workItem from="1688735264160" duration="92000" />
+      <workItem from="1688744432541" duration="697000" />
     </task>
     <task id="LOCAL-00001" summary="updated">
       <created>1684421210390</created>
@@ -200,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684421210390</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated">
+      <created>1687726345915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687726345915</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
