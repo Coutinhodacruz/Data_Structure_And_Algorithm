@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5497a421-cf08-4d29-96bc-fd8776058e88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/PizzaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/algorithm/PizzaCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ArraySwapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/algorithm/PizzaCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/algorithm/PizzaCalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,32 +44,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "dart.analysis.tool.window.visible": "false",
-    "go.import.settings.migrated": "true",
-    "last_opened_file_path": "C:/Users/Admin/DataStructure And Algorithm/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "io.unthrottled.amii.config.ui.PluginSettingsUI",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;io.unthrottled.amii.config.ui.PluginSettingsUI&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="algorithm" />
@@ -84,9 +85,9 @@
       <recent name="algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PizzaCalculatorTest">
-    <configuration name="Binding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.Binding" />
+  <component name="RunManager" selected="Application.ArraySwapper">
+    <configuration name="ArraySwapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ArraySwapper" />
       <module name="DataStructure And Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -98,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InvoiceStreamManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excersise.InvoiceStreamManipulation" />
+    <configuration name="Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Duplicate" />
       <module name="DataStructure And Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excersise.*" />
+          <option name="PATTERN" value="algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PizzaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.PizzaCalculator" />
+    <configuration name="ReverseAscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.ReverseAscendingOrder" />
       <module name="DataStructure And Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySwapper" />
+        <item itemvalue="Application.ReverseAscendingOrder" />
+        <item itemvalue="Application.Duplicate" />
         <item itemvalue="JUnit.PizzaCalculatorTest" />
         <item itemvalue="JUnit.PizzaCalculatorTest.testCalculatePacksAndRemaining" />
-        <item itemvalue="Application.PizzaCalculator" />
-        <item itemvalue="Application.InvoiceStreamManipulation" />
-        <item itemvalue="Application.Binding" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +213,10 @@
       <workItem from="1688735264160" duration="92000" />
       <workItem from="1688744432541" duration="1556000" />
       <workItem from="1688961783225" duration="300000" />
-      <workItem from="1689970737040" duration="1643000" />
+      <workItem from="1689970737040" duration="4580000" />
+      <workItem from="1690321148250" duration="1001000" />
+      <workItem from="1692155425592" duration="142000" />
+      <workItem from="1692901678658" duration="1258000" />
     </task>
     <task id="LOCAL-00001" summary="updated">
       <created>1684421210390</created>
@@ -242,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688961834751</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated">
+      <created>1689972457442</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689972457442</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

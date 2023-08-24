@@ -14,8 +14,7 @@ public class PizzaCalculatorTest {
 
         int[] result = PizzaCalculator.calculatePacksAndRemaining(totalElderly, totalYoung, piecesPerPack, totalPeople);
 
-        // The expected number of packs needed for 3 young people consuming 3 * 2 = 6 pieces
-        // is 1 pack with 2 remaining pieces.
+
         Assertions.assertEquals(1, result[0]);
         Assertions.assertEquals(2, result[1]);
     }
@@ -29,8 +28,7 @@ public class PizzaCalculatorTest {
 
         int[] result = PizzaCalculator.calculatePacksAndRemaining(totalElderly, totalYoung, piecesPerPack, totalPeople);
 
-        // The expected number of packs needed for 2 elderly people consuming 2 * 3 = 6 pieces
-        // and 1 young person consuming 1 * 2 = 2 pieces is 1 pack with 0 remaining pieces.
+
         Assertions.assertEquals(1, result[0]);
         Assertions.assertEquals(0, result[1]);
     }
@@ -44,8 +42,7 @@ public class PizzaCalculatorTest {
 
         int[] result = PizzaCalculator.calculatePacksAndRemaining(totalElderly, totalYoung, piecesPerPack, totalPeople);
 
-        // The expected number of packs needed for 2 elderly people consuming 2 * 3 = 6 pieces
-        // is 1 pack with 2 remaining pieces.
+
         Assertions.assertEquals(1, result[0]);
         Assertions.assertEquals(2, result[1]);
     }
@@ -59,7 +56,7 @@ public class PizzaCalculatorTest {
 
         int[] result = PizzaCalculator.calculatePacksAndRemaining(totalElderly, totalYoung, piecesPerPack, totalPeople);
 
-        // With zero people, no packs are needed, and there are no remaining pieces.
+
         Assertions.assertEquals(0, result[0]);
         Assertions.assertEquals(0, result[1]);
     }
@@ -73,7 +70,7 @@ public class PizzaCalculatorTest {
 
         int[] result = PizzaCalculator.calculatePacksAndRemaining(totalElderly, totalYoung, piecesPerPack, totalPeople);
 
-        // Calculate the expected number of pieces needed for 1000 elderly and 500 young people
+
         int expectedPieces = (1000 * 3) + (500 * 2);
         int expectedPacks = expectedPieces / piecesPerPack;
         if (expectedPieces % piecesPerPack != 0) {

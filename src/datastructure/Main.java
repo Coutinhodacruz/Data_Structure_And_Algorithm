@@ -13,11 +13,11 @@ public class Main {
         for (String name : names){
             System.out.println(name);
         }
-        // 0(n * 2)
+
         for (int count : numbers)
             System.out.println(count);
 
-        for (int first : numbers) // 0 (n)
+        for (int first : numbers)
             for (int second : numbers)
                 Arrays.stream(numbers).mapToObj(third -> first + ", " + second + ", " + third).forEach(System.out::println);
 
